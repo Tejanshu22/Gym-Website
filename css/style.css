@@ -1,0 +1,101 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/34aecac6-cd5f-4bf0-ad75-6ca855e1aded/dew583x-7f6f5e70-a5ee-467f-927d-7fbd789142a5.png/v1/fill/w_1280,h_952,strp/_render__genshin_impact___arataki_itto_by_canagraphics_dew583x-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTUyIiwicGF0aCI6IlwvZlwvMzRhZWNhYzYtY2Q1Zi00YmYwLWFkNzUtNmNhODU1ZTFhZGVkXC9kZXc1ODN4LTdmNmY1ZTcwLWE1ZWUtNDY3Zi05MjdkLTdmYmQ3ODkxNDJhNS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.OPaMnCJnep4wXqXksHcx4SsDvANVRI2NXIf81bWHUes");
+    background-repeat: no-repeat;
+}
+
+.left {
+    display: inline-block;
+    position: absolute;
+    left: 12px;
+    top: 12px;
+
+}
+
+.left img {
+    width: 130px;
+
+}
+
+.left div {
+    text-align: center;
+}
+
+.mid {
+    display: block;
+    width: 50%;
+    margin: 12px auto;
+
+}
+
+.right {
+    display: inline-block;
+    position: absolute;
+    top: 12px;
+    right: 12px;
+
+}
+
+.navbar {
+    background-color: rgb(149, 109, 109);
+    border-radius: 15px;
+}
+
+.navbar li {
+    display: inline-block;
+    font-size: 25px;
+}
+
+.navbar li a {
+    text-decoration: none;
+    color: white;
+    padding-left: 50px;
+    margin: auto;
+}
+
+.navbar li a:hover {
+    color: rgb(83, 72, 140);
+}
+
+.btn {
+    margin: 2px 4px;
+    padding: 4px 14px;
+    border-radius: 14px;
+    background-color: rgb(189, 166, 166);
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: rgb(197, 114, 114);
+}
+
+.container {
+    margin: 0px 800px;
+    padding: 85px 135px;
+    width: 600px;
+    height: 150px;
+}
+
+.form-group input {
+    text-align: center;
+    width: 300px;
+    padding: 2px 2px;
+    font-size: 100%;
+    display: block;
+    margin: 5px auto;
+    border-radius: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container h1 {
+    text-align: center;
+    color: rgb(255, 0, 119);
+}
+
+.container button {
+    display: block;
+    width: 30%;
+    margin: 21px auto;
+    background-color: antiquewhite;
+}
